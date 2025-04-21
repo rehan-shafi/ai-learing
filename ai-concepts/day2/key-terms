@@ -1,0 +1,7 @@
+- **Dataset**: A structured collection of data used for training/testing.
+- **Features**: Input variables (columns) used by the model to make predictions.
+- **Labels**: Target output the model learns to predict (used in supervised learning).
+- **Training**: The phase where the model learns patterns from the data.
+- **Testing**: Evaluating model performance on unseen data.
+- **Model**: A mathematical representation trained to make predictions or decisions.
+- **Accuracy**: Percentage of correct predictions made by the mod
