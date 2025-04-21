@@ -1,0 +1,10 @@
+Definition: A subset of machine learning that uses neural networks with many layers (hence the term "deep") to analyze various factors of data.
+
+Key Concepts:
+
+Neural Networks: A computational model inspired by the human brain.
+
+Backpropagation: A method for training neural networks by adjusting weights based on error rates.
+
+Activation Functions: Functions like sigmoid, ReLU that introduce non-linearity to the network.
+
