@@ -1,0 +1,4 @@
+Definition: A mechanism used in the Transformer architecture that helps the model focus on different parts of the input sequence when making predictions.
+
+Purpose: Helps capture dependencies between different words in a sentence, regardless of their distance from each other.
+
