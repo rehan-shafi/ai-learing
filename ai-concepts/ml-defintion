@@ -1,0 +1,9 @@
+Definition: A subset of artificial intelligence (AI) that allows machines to learn from data and improve their performance without being explicitly programmed.
+
+Key Types:
+
+Supervised Learning: The model is trained on labeled data.
+
+Unsupervised Learning: The model is trained on unlabeled data to identify patterns.
+
+Reinforcement Learning: The model learns by interacting with an environment and receiving feedback.
