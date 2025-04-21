@@ -1,0 +1,9 @@
+Definition: Functions used in neural networks to introduce non-linearity into the model, enabling it to learn complex patterns.
+
+Common Functions:
+
+Sigmoid: Used for binary classification.
+
+ReLU (Rectified Linear Unit): Common in hidden layers for deep networks.
+
+Softmax: Used for multi-class classification tasks.
