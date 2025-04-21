@@ -1,0 +1,3 @@
+Definition: The parameters that are set before training a machine learning model, such as learning rate, batch size, number of layers in a neural network.
+
+Importance: Tuning hyperparameters is crucial for improving the model's performance.
