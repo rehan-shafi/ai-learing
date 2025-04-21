@@ -1,0 +1,4 @@
+Definition: A type of machine learning where the model is trained on labeled data (input-output pairs) and learns to map inputs to correct outputs.
+
+Example: Predicting house prices based on features like size, location, etc.
+
