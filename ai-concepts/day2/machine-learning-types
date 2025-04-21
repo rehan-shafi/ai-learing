@@ -1,0 +1,85 @@
+1. Supervised Learning 🧑‍🏫
+Idea: The model learns from labeled data (input + correct output).
+
+Think of it like a student learning with answer keys.
+
+You show the model examples, and it learns to map input → output.
+
+Examples:
+
+Spam email detection (email → spam/not spam)
+
+House price prediction (features → price)
+
+Face recognition (image → person’s name)
+
+Algorithms used:
+
+Linear regression
+
+Logistic regression
+
+Decision trees
+
+Random forest
+
+Support Vector Machines (SVM)
+
+Neural networks (also used in deep learning)
+
+2. Unsupervised Learning 🧩
+Idea: The model works with unlabeled data and finds patterns or structures in it.
+
+It explores the data to find hidden structures.
+
+No correct answers are given — the model groups or organizes data by itself.
+
+Examples:
+
+Customer segmentation (grouping customers by behavior)
+
+Topic modeling in documents
+
+Anomaly detection (e.g., fraud detection)
+
+Algorithms used:
+
+K-Means Clustering
+
+Hierarchical Clustering
+
+PCA (Principal Component Analysis)
+
+DBSCAN
+
+3. Reinforcement Learning 🕹️
+Idea: The model learns by interacting with an environment and getting rewards or penalties.
+
+Like training a dog with treats and punishments.
+
+It’s used when actions influence future states.
+
+Examples:
+
+Game-playing agents (like AlphaGo)
+
+Robotics
+
+Self-driving cars
+
+Automated stock trading
+
+Key Concepts:
+
+Agent, Environment
+
+Actions, States
+
+Reward Signal
+
+Policy (strategy the agent learns)
+
+🧠 Bonus: Semi-Supervised & Self-Supervised Learning
+Semi-Supervised: A mix of labeled and unlabeled data.
+
+Self-Supervised: Model creates its own labels from raw data. (Used heavily in deep learning, including LLMs.)
