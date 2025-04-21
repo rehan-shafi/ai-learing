@@ -1,0 +1,7 @@
+Definition: A deep learning architecture designed to handle sequential data, particularly used for NLP tasks. It is based on the self-attention mechanism that allows the model to focus on different parts of a sentence.
+
+Key Models:
+
+BERT: A transformer-based model used for understanding language.
+
+GPT: A model used for text generation.
