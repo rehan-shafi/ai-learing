@@ -1,0 +1,4 @@
+Definition: Models that generate new data instances similar to the training data. They learn the distribution of the data and can create new, similar samples.
+
+Example: Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs).
+
