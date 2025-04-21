@@ -1,0 +1,4 @@
+Overfitting: Occurs when a model learns the details and noise in the training data to the extent that it negatively impacts its performance on new data.
+
+Underfitting: Occurs when a model is too simple to capture the underlying patterns in the data, resulting in poor performance both on training and testing data.
+
