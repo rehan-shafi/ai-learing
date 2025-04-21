@@ -1,0 +1,16 @@
+Date
+ AI Learning - Day Two Notes
+ 2025-04-21
+ Day Two Focus
+ Introduction to Machine Learning (ML)
+ Quick Review- Recap AI vs. ML vs. DL- Key terms: dataset, features, labels, training, testing, model, accuracy, etc.
+ Types of Machine Learning
+ 1. Supervised Learning - with labeled data (e.g., spam detection)
+ 2. Unsupervised Learning - patterns in unlabeled data (e.g., customer segmentation)
+ 3. Reinforcement Learning - learning via rewards (e.g., robotics)
+ How Models Learn- Training: models learn from data- Loss functions and optimization (gradient descent)- Concepts of overfitting and underfitting
+ Optional Hands-On- Try no-code ML platforms:
+  - Teachable Machine: teachablemachine.withgoogle.com
+  - TensorFlow Playground: playground.tensorflow.org- Explore a beginner notebook on Kaggle
+ Journal Prompt- What is ML in your own words?- Key takeaways about types of ML- Questions you still have
+ Pa
