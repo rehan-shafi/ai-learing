@@ -1,0 +1,7 @@
+Definition: An optimization algorithm used to minimize the loss function in machine learning by iteratively adjusting the model's parameters.
+
+Types:
+
+Batch Gradient Descent: Uses the entire dataset to compute the gradient at each step.
+
+Stochastic Gradient Descent (SGD): Uses a single training example to compute the gradient at each step.
